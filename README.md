@@ -7,7 +7,7 @@ Aplikacja TO-DO umożliwiająca tworzenie notatek.
 
 
 <p>Pobierz archiwum lub sklonuj projekt za pomocą git</p>
-<p>Utwórz schemat bazy danych</p>
+<p>Utwórz pusty schemat bazy danych</p>
 <p>Utwórz plik .env z pliku .env.example i dostosuj parametry bazy danych (w tym nazwę schematu)</p>
 <p>Uruchom komendę composer install</p>
 <p>Uruchom migracje komendą php migrations.php z katalogu głównego projektu</p>
