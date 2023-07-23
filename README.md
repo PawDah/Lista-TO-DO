@@ -1,6 +1,6 @@
  # Lista TO DO 
 
-Aplikacja TO-DO umożliwiająca tworzenie notatek.
+Aplikacja TO-DO stworzona bez użycia frameworka umożliwiająca tworzenie notatek.
 
 
 ## Instalacja
