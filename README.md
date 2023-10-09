@@ -13,7 +13,7 @@ Aplikacja MVC TO-DO stworzona bez użycia frameworka w czystym jezyku PHP umożl
 <p>Uruchom migracje komendą php migrations.php z katalogu głównego projektu</p>
 <p>Przejdź do folderu public</p>
 <p>Uruchom serwer php, uruchamiając komendę php -S localhost:8080</p>
-<p>Otwórz w przeglądarce http://http://localhost:8080</p>
+<p>Otwórz w przeglądarce http://localhost:8080</p>
     
 ## Technologie użyte w projekcie
 
