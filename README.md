@@ -1,6 +1,6 @@
  # Lista TO DO 
 
-Aplikacja TO-DO stworzona bez użycia frameworka umożliwiająca tworzenie notatek.
+Aplikacja MVC TO-DO stworzona bez użycia frameworka w czystym jezyku PHP umożliwiająca tworzenie notatek.
 
 
 ## Instalacja
