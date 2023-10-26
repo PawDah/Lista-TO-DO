@@ -28,5 +28,4 @@ Aplikacja MVC TO-DO stworzona bez użycia frameworka w czystym jezyku PHP umożl
 - Bootstrap
 
 <p>W tym projekcie wzrorowałem się na frameworku Laravel ze względu na jego większą znajomość niż innych frameworków i rozwiązania w nim zastosowane które wydawały mi się łatwe do zaimplementowania (Jednak nie było tak łatwo)</p>
-<p>Mam świadomość chaotycznie napisanego kodu ale jestem zadowolony z efektu pracy i kolejnych godzin spędzonych rozwijając się w programowaniu </p>
-<p>Mam nadzieję że projekt się spodoba :) </p>
+<p>Jestem zadowolony z efektu pracy i kolejnych godzin spędzonych rozwijając się w programowaniu </p>
