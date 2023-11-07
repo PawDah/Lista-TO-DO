@@ -1,24 +1,24 @@
- # Lista TO DO 
+# TO DO list
 
-Aplikacja MVC TO-DO stworzona bez użycia frameworka w czystym jezyku PHP umożliwiająca tworzenie notatek.
-
-
-## Instalacja
+MVC TO-DO application created without using a framework only in pure PHP, enabling the creation of notes.
 
 
-<p>Pobierz archiwum lub sklonuj projekt za pomocą git</p>
-<p>Utwórz pusty schemat bazy danych</p>
-<p>Utwórz plik .env z pliku .env.example i dostosuj parametry bazy danych (w tym nazwę schematu)</p>
-<p>Uruchom komendę composer install</p>
-<p>Uruchom migracje komendą php migrations.php z katalogu głównego projektu</p>
-<p>Przejdź do folderu public</p>
-<p>Uruchom serwer php, uruchamiając komendę php -S localhost:8080</p>
-<p>Otwórz w przeglądarce http://localhost:8080</p>
+## Installation
+
+
+<p>Download the archive or clone the project with git</p>
+<p>Create an empty database schema</p>
+<p>Create an .env file from .env.example and adjust the database parameters (including the schema name)</p>
+<p>Run composer install</p>
+<p>Run migrations with the php migrations.php command from the main project directory</p>
+<p>Go to the public folder</p>
+<p>Start the php server by running the command php -S localhost:8080</p>
+<p>Open http://localhost:8080 in your browser</p>
     
-## Technologie użyte w projekcie
+## Technologies used in the project
 
-- HTML
-- CSS
+-HTML
+-CSS
 - PHP 7.4
 - Composer
 - MySql
@@ -27,5 +27,5 @@ Aplikacja MVC TO-DO stworzona bez użycia frameworka w czystym jezyku PHP umożl
 - Git
 - Bootstrap
 
-<p>W tym projekcie wzrorowałem się na frameworku Laravel ze względu na jego większą znajomość niż innych frameworków i rozwiązania w nim zastosowane które wydawały mi się łatwe do zaimplementowania (Jednak nie było tak łatwo)</p>
-<p>Jestem zadowolony z efektu pracy i kolejnych godzin spędzonych rozwijając się w programowaniu </p>
+<p>In this project, I followed the Laravel framework due to its greater knowledge than other frameworks and the solutions used in it that seemed easy to implement (However, it was not that easy)</p>
+<p>I am satisfied with the results of my work and the subsequent hours spent developing my programming skills </p>
